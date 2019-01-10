@@ -1,0 +1,7 @@
+    habitat temp    elevation
+Reedy Lake  mixed   3.4 0.0
+Pearcadale  wet 3.4    9.2
+Warneet wet 8.4    3.8
+Cranbourne  wet 3.0    5.0
+Lysterfield dry 5.6    5.6
+Red Hill    dry 8.1    4.1
